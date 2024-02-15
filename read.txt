@@ -1,0 +1,44 @@
+                                     TASK -  1
+
+Create a table (students) and insert data of student like (Name, Email, and Roll Number) and generate password of 8 digit and save in database. (Use dummy design for frontend)
+
+1. Table was created and also data was inserted dynamically.
+2. PASSWORD Contain not less than 8 digits.
+
+                                    
+                                    TASK  - 2
+
+    Design and develop the “Login of student with Roll Number and Password”.
+
+                        login System are Working Properly
+            functionality are : 
+                                 1. No One can Access Direct pages with out loggin 
+
+
+                                 TASK - 3
+
+        Create a table (blogs) and insert data of blog like (Title, Description, Image) and save in database. (Use dummy design of frontend)
+
+
+                1. Table : blogs are created 
+                2. Data inserted dynamically
+
+
+                                  TASK - 4
+
+              Display the “Blog List that stored in database” 
+
+              1. Data Display Successfully Without showing any errror
+
+
+                            FUNCTIONALITY OF THE TEST are
+                
+        1. LOGIN PAGE  & LOG OUT PAGE:  
+        2. REGISTER PAGE : 
+        3. BLOGS PAGE :
+        4. ADD BLOGS PAGE :
+        5. BLOG LIST PAGE :
+        6. DB PAGE :
+        7. HEAD PAGE :
+
+
